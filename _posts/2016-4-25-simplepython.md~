@@ -1,0 +1,21 @@
+---
+title :  How to install pycharm
+categories : [lessons, beginner, python]
+---
+Am taking a new Programming language. Its a requirement at the boot-camp.
+like most people tring new stuff, i headed over to YouTube to get some tutorials vids in order to get a feel of things.
+I went straight for Derek Banas vids on python....someone recommended him. He then proceeded to mention he prefers using Pycharm and had a demo
+on how to install it, however he just covered the Windows and Mac installations and no mention of how to do it for the linux users.
+Am running on Ubuntu 14.04 64bit. So i headed over to the Pycharm Website and downloaded it.
+Then came the installation, at first i tried the good old habit i of "right click", then "open with Ubuntu Software Center".....
+When installing Brackets and Opera browser the above method had worked, but on this one, it failed. so i looked at the documentation on Pycharm site, wasn't as clear as i hoped considering ive been on ubuntu just for under 3 months now.
+I remembered a simple way i came across while installing Netbeans, i combined it with the steps on Pycharm site and it worked!
+Disclaimer: probably there a better way out there, but here are my few steps.
+
+1. Copy the pycharm-community*.tar.gz to the desired installation location, preferably new empty directory. Make sure you have read-write permissions for that directory.
+2. Right click and extract it.
+3. Press the Window button , type this~> terminal
+4. The terminal will open, navigate to the destination that you created in step 1.
+5. In side the extracted folder there's a bin folder, and inside it there is this~> pycharm.sh.
+6. type this ~>chmod +x <installer-file-name>
+
