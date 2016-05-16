@@ -10,15 +10,17 @@ Instead it throws me this message "The system network services are not compatibl
 So what next?
 GIYF, but there are so many results,here's what worked for me.
 
-Go to the below mentioned address and download three .deb files
+Go to the below mentioned address.
 
-[this link right here] (http://archive.ubuntu.com/ubuntu/pool/main/libn/libnl3/)
+http://archive.ubuntu.com/ubuntu/pool/main/libn/libnl3/)
 
 What you need is these packages
 
-+libnl-3-200_3.2.21-1_amd64.deb
-+libnl-route-3-200_3.2.21-1_amd64.deb
-+libnl-genl-3-200_3.2.21-1_amd64.deb
+| Packages |
+| ------------- |
+| libnl-3-200_3.2.21-1_amd64.deb |
+| libnl-route-3-200_3.2.21-1_amd64.deb | 
+| libnl-genl-3-200_3.2.21-1_amd64.deb |
 
 The above is for 64bit OS, if happen to be running  32bit then use the i386.deb
 
