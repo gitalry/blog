@@ -12,12 +12,13 @@ GIYF, but there are so many results,here's what worked for me.
 
 Go to the below mentioned address and download three .deb files
 
-http://archive.ubuntu.com/ubuntu/pool/main/libn/libnl3/
+[this link right here] (http://archive.ubuntu.com/ubuntu/pool/main/libn/libnl3/)
 
 What you need is these packages
-libnl-3-200_3.2.21-1_amd64.deb
-libnl-route-3-200_3.2.21-1_amd64.deb
-libnl-genl-3-200_3.2.21-1_amd64.deb
+
++libnl-3-200_3.2.21-1_amd64.deb
++libnl-route-3-200_3.2.21-1_amd64.deb
++libnl-genl-3-200_3.2.21-1_amd64.deb
 
 The above is for 64bit OS, if happen to be running  32bit then use the i386.deb
 
@@ -28,9 +29,10 @@ Open your terminal and navigate into the folder.
 To navigate use cd(Change Directory)
 
 Once you're in it type(do not put the quotes)
-"sudo dpkg -i libnl-3-200_3.2.21-1_amd64.deb".
-"sudo dpkg -i libnl-route-3-200_3.2.21-1_amd64.deb”.
-"sudo dpkg -i libnl-genl-3-200_3.2.21-1_amd64.deb”. 
++"sudo dpkg -i libnl-3-200_3.2.21-1_amd64.deb".
++"sudo dpkg -i libnl-route-3-200_3.2.21-1_amd64.deb”.
++"sudo dpkg -i libnl-genl-3-200_3.2.21-1_amd64.deb”. 
+
 Restart the system, tadaa...
 
-P.S: Am not saying the Android Studio brought this, crazy stuff has been known to happen.
++P.S: Am not saying the Android Studio brought this, crazy stuff has been known to happen.
