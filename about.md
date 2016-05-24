@@ -10,7 +10,7 @@ Web Developer.
 
 HTML, CSS and Python.
 
-### A little extra
+### Predilection
 
 HTML and CSS.....thats my kinda thing.
 
