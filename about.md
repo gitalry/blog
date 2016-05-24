@@ -6,10 +6,11 @@ permalink: /about/
 
 Web Developer.
 
-### More Information
+### Languages
 
-HTML, CSS, Java.....thats my kinda thing.
+HTML, CSS and Python.
 
-### Contact me
+### A little extra
 
-[gitalry@yahoo.com](mailto:email@domain.com)
+HTML and CSS.....thats my kinda thing.
+
