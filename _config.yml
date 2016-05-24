@@ -37,7 +37,7 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics: UA-78288823-1
 
 # Your website URL (e.g. http://gitalry.github.io)
 # Used for Sitemap.xml and your RSS feed
