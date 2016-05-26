@@ -4,13 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Web Developer.
+A software developer.
+I do HTML, CSS and Python.
 
-### Languages
+My predilection is front-end dev.
 
-HTML, CSS and Python.
+### A little extra
 
-### Predilection
+I am a student of life, a flexible learner draw joy and inspiration from creating and customizing solutions to problems.
+I like engaging people around ideas to make the world a better place.
 
-HTML and CSS.....thats my kinda thing.
 
