@@ -3,7 +3,7 @@
 
 
 *****
-A blog.
+A blog technical blog; got I.T related posts and information.
 *****
 
 
