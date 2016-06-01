@@ -11,8 +11,9 @@ Apparently unlike my ubuntu that didnt holla back as to what the cause is, this 
 So to cut the long story short, installing the below libraries will sort out the issue.
 Open your terminal and paste the below command, run it.
 
-
-||    sudo apt-get install lib32z1 lib32ncurses5 lib32bz2-1.0 lib32stdc++6    ||
+|-------------|
+| sudo apt-get install lib32z1 lib32ncurses5 lib32bz2-1.0 lib32stdc++6 |
+|-------------|
 
 
 Then retry installing android studio again
